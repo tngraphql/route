@@ -45,10 +45,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/nguyenpl117/tngraph.git"
+    "url": "git+https://github.com/tngraphql/route.git"
   },
   "bugs": {
-    "url": "https://gitlab.com/nguyenpl117/tngraph/issues"
+    "url": "https://github.com/tngraphql/route/issues"
   },
-  "homepage": "https://gitlab.com/nguyenpl117/tngraph#readme"
+  "homepage": "https://github.com/tngraphql/route#readme"
 }
